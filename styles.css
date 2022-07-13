@@ -1,0 +1,75 @@
+body{
+    background-color: #EEE4E1;
+    height: 100vh;
+    width: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.shading-container{
+    background-color: #e6beae;
+    border-radius: 15px;
+    height: 57%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.big-container{
+    background-color: #FFFCF7;
+    border-radius: 15px;
+    height: 95%;
+    width: 96%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-container{
+    height: 15%;
+    padding-bottom: 2%;
+}
+
+.title{
+    color: #b2967d;
+    margin-top: 0;
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 2.5rem;
+}
+
+.content-container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-container{
+    height: 100%;
+    width: 50%;
+}
+
+.img{
+    height: 300px;
+    border-radius: 15px;
+}
+
+.info-container{
+    background-color: #e7d8c9;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+h2{
+    color: #b2967d;
+    font-family: 'Edu SA Beginner', cursive;
+    font-weight: 400;
+}
+
